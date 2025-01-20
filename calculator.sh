@@ -7,4 +7,5 @@ X = A + B
 #Subtraction function
 Y = A - B
 
-xyz
+#Division Function
+Z = A / B
